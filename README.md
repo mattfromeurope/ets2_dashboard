@@ -3,9 +3,7 @@ ets2_dashboard
 
 **Euro Truck Simulator 2 Arduino Dashboard Code**
 
-This is the code for my dashboard project, there is a
-[blog post](http://skyhisi.blogspot.co.uk/2013/09/euro-truck-simulator-2-prototype-real.html)
-which contains photos and videos of it working and how it works.
+This is the code for Silas Parker's dashboard project, there is a [blog post](http://skyhisi.blogspot.co.uk/2013/09/euro-truck-simulator-2-prototype-real.html) which contains photos and videos of it working and how it works.
 
 Installing
 ----------
@@ -21,7 +19,5 @@ Troubleshooting
 ---------------
 
 - Check you have copied the `dash_plugin.txt` file as well as the DLL into the plugins folder
- 
 - Check the Arduino is on COM3 - the plugin expects to find the Arduino on COM3, you can change this by editing the `dash_plugin.txt` options file
-
 - Check for error messages in the game log (in `%USERPROFILE%\Documents\Euro Truck Simulator 2\game.log.txt`).  
